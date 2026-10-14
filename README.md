@@ -27,7 +27,7 @@ This is my personal website, built to be a hub to show my hobbies, projects and 
 
 ## > [Unmute](https://github.com/Brooklyn-git/Unmute-AAC-App)
 
-Unmute is an android AAC app designed to be customizable and easy to use to adapt to other people's needs, this to help non-speaker people.
+Unmute is an android AAC app designed to be customizable and easy to use to adapt to other people's needs, this to help non-speaker people, no matter their age.
 
 # Stats/Metrics
 
